@@ -1,0 +1,14 @@
+# Node Modules
+node_modules
+
+# TypeScript Build Output
+dist
+
+# Environment Variable
+.env
+
+# Lockfile
+Components/**/pnpm-lock.yaml
+Components/**/bun.lockb
+Components/**/yarn.lock
+Components/**/package-lock.json
