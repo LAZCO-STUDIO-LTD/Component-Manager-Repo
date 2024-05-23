@@ -1,0 +1,14 @@
+{
+  "name": "Analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "cli-progress": "^3.12.0",
+    "mongoose": "^8.4.0"
+  },
+  "devDependencies": {
+    "@types/cli-progress": "^3.11.5"
+  }
+}
